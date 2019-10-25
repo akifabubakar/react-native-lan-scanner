@@ -63,6 +63,7 @@ dependencies {
     // https://github.com/facebook/react-native/blob/0.61-stable/template/android/app/build.gradle#L192
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
+    implementation 'com.github.stealthcopter:AndroidNetworkTools:0.4.3'
 }
 
 def configureReactNativePom(def pom) {
@@ -86,8 +87,7 @@ def configureReactNativePom(def pom) {
 
         developers {
             developer {
-                id packageJson.author.username
-                name packageJson.author.name
+                name packageJson.author
             }
         }
     }
