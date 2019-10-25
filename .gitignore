@@ -40,3 +40,9 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
+
+#VSCode
+*.vscode
+
+#Package-lock
+package-lock.json

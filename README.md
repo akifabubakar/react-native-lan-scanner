@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install react-native-lan-scanner --save`
+`$ npm install https://github.com/akifabubakar/react-native-lan-scanner`
 
 ### Mostly automatic installation
 

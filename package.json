@@ -8,17 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/github_account/react-native-lan-scanner.git",
-    "baseUrl": "https://github.com/github_account/react-native-lan-scanner"
+    "url": "https://github.com/akifabubakar/react-native-lan-scanner",
+    "type": "git"
   },
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
-  },
+  "author": "akifabubakar",
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
